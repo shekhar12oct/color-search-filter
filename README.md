@@ -1,8 +1,21 @@
-# colorSearchFilter
-A filter react project which filters out the colors based on the keyword provided in the search bar.
-A colour API has been used to fetch the color name with its hex code.
-The API takes a time to fetch the results as its a long result API with lots of colour name and its hex value.
+# 🎨 Color Search Filter
 
----> clone the repo
----> npm install
----> npm start (to run the project).
+A simple and interactive color search/filter web application built using **JavaScript** (or **React**, if applicable). This app lets users filter a list of colors in real-time based on their input, making it perfect for learning DOM manipulation, array filtering, and UI interactivity.
+
+---
+
+## 🚀 Features
+
+- 🔍 Real-time color filtering based on user input
+- 🌈 Display of color swatches or names
+- 🧠 Case-insensitive and partial match support
+- ⚡ Fast, lightweight, and responsive
+- 💅 Minimal and clean UI design
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript** / **React.js** (if applicable)
